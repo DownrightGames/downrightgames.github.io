@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'FowlSans';
+    src: url('../fonts/fowl.ttf');
+}
+
+body {
+    font-family: 'FowlSans';
+}
+
+body h1 {
+    font-weight: 300;
+    text-align: center;
+}
+
+body .logo {
+    font-size: 36pt;
+}
